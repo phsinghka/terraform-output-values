@@ -21,10 +21,10 @@ In this project, you will:
 
 ## Usage
 
-1. **Clone the repository** (replace `<repository-url>` with the actual URL):
+1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/phsinghka/terraform-output-values.git
    cd terraform-output-project
    ```
 
